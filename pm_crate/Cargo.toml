@@ -1,0 +1,7 @@
+[package]
+name = "pm_crate"
+version = "0.1.0"
+
+[lib]
+proc-macro = true
+

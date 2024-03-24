@@ -1,0 +1,8 @@
+[package]
+name = "base_crate"
+
+[dependencies]
+[dependencies.pm_crate]
+path = "pm_crate"
+version = "0.1.0"
+
